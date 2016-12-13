@@ -1,2 +1,2 @@
 # firstcrack
-Through adaptive filtering (post processing) of audio recordings of coffee roasts, detect "first crack" and inject that information into "RoastTime" .json roast profiles. Manual tagging of events helps build up training set for supervised learning algorithm that can be shared between users.
+Through adaptive filtering (post processing) of audio recordings of coffee roasts (initially on the Aillio Bullet R1), detect "first crack" markers (begin and end) and inject that information into "RoastTime" .json roast profiles in collaboration with human roaster. This semi-automatic tagging of events will help build up training set for supervised learning algorithm that can be shared between users.
